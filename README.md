@@ -22,5 +22,10 @@ Helper functions in trainer-command.js
     const score = distanceMeter.getActualDistance(distanceRan);
 ```
 
+Simple demo
+```javascript
+randomPlay(100)
+```
+
 ### Resources
 - Game extracted from Chromium by @liuwayong.  Original repo is [here](https://github.com/wayou/t-rex-runner)
